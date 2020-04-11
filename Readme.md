@@ -2,6 +2,8 @@
 
 link --> https://2020-04-11-markdown-editor-five.now.sh/
 
+It is done with react, hooks, markedjs, codemirror and react-html-parser
+
 
 # Today's Objective: Markdown Editor
 

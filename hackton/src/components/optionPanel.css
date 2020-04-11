@@ -1,0 +1,18 @@
+.optionBar{
+    display: flex;
+    padding: 1em;
+    justify-content: space-around;
+}
+
+.themesContainer{
+    display: flex;
+}
+
+.themeSelector{
+    padding: 0em 0.5em;
+}
+
+.themeSelector:hover{
+    padding: 0em 0.6em;
+    color: darkred;
+}
